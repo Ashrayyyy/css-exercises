@@ -1,0 +1,16 @@
+p {
+    background-color: #f3a1ad;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+#linetwo{
+    color: blue;
+    font-size: 36px;
+}
+.linethree{
+    font-size: 24px;
+}
+#linefour{
+    background-color: rgb(88, 216, 88);
+    font-size: 24px;
+    font-weight: bold;
+}
