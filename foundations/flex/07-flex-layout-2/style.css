@@ -45,6 +45,12 @@ body {
 
 .cards{
   display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: auto;
+  justify-content: space-evenly;
+  padding: 20px;
+
 
 }
 
@@ -52,6 +58,9 @@ body {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  margin: 10px;
+  flex-basis: 30%;
+
 
 }
 .content{
